@@ -1,29 +1,32 @@
 # Hi there 👋, I'm Lencho.
 
-I'm a **software developer** passionate about building fast, reliable, and creative digital solutions. I specialize in **web apps, mobile apps, Telegram bots, and automation tools**, with a focus on clean code and scalable architectures.
+I'm a **software developer** passionate about building fast, reliable, and creative digital solutions. I specialize in **web apps, mobile apps, Telegram bots, automation tools**, and **AI-powered solutions**, with a focus on clean code and scalable architectures.
 
 ---
 
 ## 💻 What I Do
-- Build **full-stack web apps** with **React**, **Next.js**, and **Bun**
-- Develop **Telegram bots** for automation and community engagement
-- Create **mobile apps** using **React Native**
-- **Scrape and process data** efficiently
+- Build **full-stack web apps** with **React**, **Next.js**, **Bun**, **Express**, **Hono**, and **Flask**, etc.
+- Develop **Telegram bots** for automation, community engagement, and AI-driven features
+- Create **mobile apps** using **React Native** and **Expo**
+- **Scrape and process data** efficiently for insights and automation
+- Develop **Python applications**, including AI/ML integrations and backend solutions
 - Explore **Rust** to deepen understanding of systems programming
+- Experiment with **AI tools, APIs, and machine learning models** for innovative projects
 
 ---
 
 ## 🧰 Tech Stack
-**Languages & Frameworks:** TypeScript, JavaScript, Rust (learning), React, React Native, Node.js, Next.js, Bun  
-**Tools & Platforms:** Vercel, Linux (Fedora), APIs, Automation  
+**Languages & Frameworks:** TypeScript, JavaScript, Python, Rust (learning), React, React Native, Next.js, Express, Flask, Hono  
+**AI & ML:** OpenAI APIs, Google Gemini APIs, machine learning models, AI integration in apps and bots
+**Styling & UI:** TailwindCSS, Shadcn, etc  
+**Tools & Platforms:** Vercel, Digital Ocean, Koyeb, Netlify, Railway, Heroku, Linux, APIs, Automation, etc  
 
 ---
 
 ## ⚙️ Workflow & Mindset
-I value clean, purposeful code and enjoy solving complex problems with simple, well-structured solutions. Always learning, always improving.
+I value clean, purposeful code and enjoy solving complex problems with simple, well-structured solutions. **Always learning, always improving**, with a keen interest in AI and automation to enhance productivity.
 
 ---
 
 ### 📫 Connect with Me
-- Telegram: [@hu_confessionss](https://t.me/hu_confessionss)  
-- GitHub: [github.com/YoutooMetoo](https://github.com/YoutooMetoo)
+- Telegram: [Lencho](https://t.me/plxor)
