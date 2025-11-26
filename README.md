@@ -9,7 +9,7 @@ I'm a **software developer** passionate about building fast, reliable, and scala
 - Develop **Telegram bots** for automation, community engagement, and AI-driven features
 - Create **mobile apps** using **React Native** and **Expo**
 - **Scrape and process data** efficiently for insights and automation
-- Develop **Python applications**, including AI/ML integrations and backend solutions
+- Develop **Python applications**, including AI/ML integrations and backend services
 - Explore **Rust** to deepen understanding of systems programming
 - Experiment with **AI tools, APIs, and machine learning models** for innovative projects
 
