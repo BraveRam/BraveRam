@@ -1,4 +1,4 @@
-# Hey, Lencho here.
+# Hi, Lencho here.
 
 I'm a **software developer** passionate about building fast, reliable, and scalable software. I solve real world problems, and specialize in **web apps, mobile apps, Telegram bots, automation tools**, and **AI-powered software**, with a focus on clean code and scalable architectures.
 
